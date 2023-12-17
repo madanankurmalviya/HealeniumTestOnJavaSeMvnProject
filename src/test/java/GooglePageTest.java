@@ -11,6 +11,7 @@ public class GooglePageTest {
     public static void main (String []args) throws MalformedURLException {
 
         ChromeOptions options = new ChromeOptions();
+        options.addArguments("--remote-allow-origin=*");
         WebDriver delegate = new ChromeDriver(options);
         SelfHealingDriver driver = SelfHealingDriver.create((WebDriver) delegate);
         driver.get("https://www.google.com");
