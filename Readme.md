@@ -6,7 +6,7 @@
 
 https://automationmentors.blogspot.com/2023/12/healenium-updated-dec2023.html
 
-Youtube demo for complete setup : https://youtu.be/lVV2nX_B60M
+Youtube demo for complete setup : https://www.youtube.com/watch?v=Xg_sqE4VUyU
 
 ## How to start
 ### 1.Start Healenium backend from infra folder
